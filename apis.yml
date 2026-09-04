@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://www.astaro.com/', status: 301, note: 'declared website redirects to https://www.sophos.com/en-us — a different registrable domain (astaro.com -> sophos.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/astaro.png
 name: astaro
 description: 'astaro is a company surfaced as a portfolio company of insight-partners and added to the
